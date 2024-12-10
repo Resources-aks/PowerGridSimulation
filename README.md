@@ -1,4 +1,4 @@
-# Inter_oPEn_Jan2025
+# PowerGridSimulation
 
 ## Overview
 This repository demonstrates best practices for reproducible research in C++.
